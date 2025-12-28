@@ -1,0 +1,17 @@
+.skin-blue .main-header .navbar, .skin-blue .main-header .logo {
+    background-color: #2574A9 !important;
+    border-color: #2574A9 !important;
+    background-image: url('../images/pattern.png');
+    background-repeat: repeat;
+    background-size: 470px;
+    background-position: center;
+}
+
+/* .skin-red .main-header .navbar, .skin-red .main-header .logo {
+    background-color: #2574A9 !important;
+    border-color: #2574A9 !important;
+    background-image: url('../images/pattern.png');
+    background-repeat: repeat;
+    background-size: 470px;
+    background-position: center;
+} */
